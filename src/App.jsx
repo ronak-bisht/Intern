@@ -8,7 +8,7 @@ function App() {
 
 
   // Improvements -
-  // 1) Product list can be loading with suspense and fallback with showing product card skeleton
+  // 1) Product list can be loaded with suspense and fallback with showing product card skeleton
   // 2) can implement debouncing in search instead of search button
   // 3) can merge search and category both in query params that will allow to filter the searched products (might need some time to implement)
   
